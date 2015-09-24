@@ -7,5 +7,5 @@ Car.prototype.getDescription = function() {
 	console.log("Name: " + this.name + "; Engine: " + this.engine);
 }
 
-var bmw = new Car("BMW", 3.0);
+var bmw = new Car("BMW");
 bmw.getDescription()

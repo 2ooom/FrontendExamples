@@ -1,0 +1,18 @@
+.icon-search {
+	background-image: data-uri('search.png');
+	width:40px;
+	height:40px;
+	display: inline-block;
+}
+
+.icon-user {
+  background-image: data-uri('data:image/gif;base64', 'user.gif');
+  width: 94px;
+  height: 94px;	
+  display: inline-block;
+}
+
+.icon-pic {
+	&:extend(.icon-user);
+	border: 1px solid red;
+}
