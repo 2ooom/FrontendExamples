@@ -4,12 +4,12 @@
    - problem (size, usage, learning curve)
    - structure (UI Framework, custom bootstrap)
 
-## 2. CSS sprite with Less
+## 2. CSS sprite with Less [example](/less/)
    - http://lesscss.org/functions/#misc-functions-data-uri (why? easy artwork update, super easy sprite technic)
    - http://lesscss.org/features/#extend-feature (why? size, semantics, refactoring)
    - (Example)
  
-## 3. SVG sprite
+## 3. SVG sprite 
   - [Grunt-svgstore](https://github.com/FWeinb/grunt-svgstore)
   - [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin)
   - Usage Examaple (To be provided)
